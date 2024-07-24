@@ -1,5 +1,6 @@
 # PRODIGY_DS_01
 TASK 1 (PRODIGY INFOTECH)
+
 In this task, I have created visualizations to analyze the distribution of a categorical or continuous variable using a dataset. Specifically, I focused on creating bar charts and histograms to represent data such as the distribution of ages or genders in a population. This analysis provides a clear and concise view of the data distribution, making it easier to identify patterns and insights.
 Key Features
 1. Data Loading and Preprocessing: Loaded the dataset and performed necessary preprocessing steps to ensure the data is in a suitable format for analysis and visualization.
